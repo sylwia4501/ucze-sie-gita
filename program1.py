@@ -1,1 +1,1 @@
-print(xD)
+print('xD')
